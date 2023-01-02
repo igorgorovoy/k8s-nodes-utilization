@@ -1,7 +1,7 @@
 # k8s-nodes-utilization
 A grafana dashboard that will help you understand the utilization on the nodes of the kubernetes cluster.
 
-![dashboard example](assets/Screenshot 2023-01-02 at 09.47.02.png "dashboard example")
+![dashboard example](assets/Screenshot.png "dashboard example")
 | Panel | Desctiption |
 |-------|-------------|
 | Time | current time |
